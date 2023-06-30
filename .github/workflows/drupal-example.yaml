@@ -64,4 +64,4 @@ jobs:
     # - name: Show Lando logs
     #   continue-on-error: true
     #   run: |
-    #     docker-compose -p drupal9full logs
+    #     docker-compose -p demo-capellic-drupal logs
